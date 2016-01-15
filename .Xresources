@@ -1,0 +1,29 @@
+URxvt.depth:        32
+URxvt.background:   [90]#3e3e3e
+URxvt.scrollBar:    false
+URxvt.internalBorder: 12
+URxvt.font: xft:Inconsolata for Powerline:size=10:antialias=true:hinting=true,xft:DejaVu Sans Mono:pixelsize=18:antialias=true:hinting=true
+URxvt.boldFont: xft:Inconsolata for Powerline:bold:size=10:antialias=true:hinting=true,xft:DejaVu Sans Mono:bold:pixelsize=18:antialias=true:hinting=true
+URxvt.italicFont: xft:Inconsolata for Powerline:italic:size=10:antialias=true:hinting=true,xft:DejaVu Sans Mono:italic:pixelsize=18:antialias=true:hinting=true
+URxvt.boldItalicFont: xft:Inconsolata for Powerline:bold:italic:size=10:antialias=true:hinting=true,xft:DejaVu Sans Mono:bold:italic:pixelsize=18:antialias=true:hinting=true
+URxvt.letterSpace: -1
+ 
+*.foreground:   #f6f6f6
+*.background:   #3e3e3e
+*.cursorColor:  #f0e9dc
+*.color0:       #3e3e3e
+*.color8:       #5d5d5d
+*.color1:       #966575
+*.color9:       #cf8ba2
+*.color2:       #659675
+*.color10:      #90d6a6
+*.color3:       #968665
+*.color11:      #e0bf80
+*.color4:       #657596
+*.color12:      #5f7ab1
+*.color5:       #756596
+*.color13:      #807793
+*.color6:       #658e96
+*.color14:      #1fb6d3
+*.color7:       #d0d0d0
+*.color15:      #f6f6f6
